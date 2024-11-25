@@ -1,2 +1,4 @@
-# Problemario2.kt
-Fundamentos_Elisa
+Nombre: Gomez Mendez Elisa de Jesus 
+Carrera: Ingenieria Quimica
+Maestro: 
+
